@@ -8,7 +8,7 @@ Mi enfoque profesional es simple: crear software que elimine tareas repetitivas,
 
 ---
 
-### 💻 Ecosistema y Tecnologías
+### Ecosistema y Tecnologías
 
 **Stack Principal:**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -23,34 +23,33 @@ Mi enfoque profesional es simple: crear software que elimine tareas repetitivas,
 
 ---
 
-### 💼 Experiencia y Casos de Uso
+### Experiencia y Casos de Uso
 
-A lo largo de mi carrera, he desarrollado soluciones integrales para profesionales y empresas, manejando el ciclo de vida completo del producto:
+A lo largo de mi carrera, he participado en el desarrollo y la gestión operativa de soluciones para empresas y profesionales:
 
-> **Automatizador de Balances VCF** *(App de Escritorio - Repositorio Privado)*
-> Diseñé y desarrollé una aplicación local para un estudio contable que inyecta y formatea datos complejos (con ajuste por inflación) directamente desde planillas de Excel a reportes formales en Word.
-> * **Impacto:** Reducción de 4 horas de trabajo manual (data entry) por balance, eliminando el margen de error humano en datos numéricos críticos.
-> * **Tecnologías implicadas:** Lógica de scripts locales, parseo de documentos, estructuras dinámicas de datos.
+**Automatizador de Balances VCF** *(App de Escritorio - Repositorio Privado)*
+Diseñé y desarrollé una aplicación local para un estudio contable que inyecta y formatea datos complejos (con ajuste por inflación) directamente desde planillas de Excel a reportes formales en Word.
+* **Impacto:** Reducción de 4 horas de trabajo manual por balance, eliminando el margen de error humano en datos numéricos críticos.
+* **Tecnologías:** Lógica de scripts locales, parseo de documentos, estructuras dinámicas de datos.
 
-> **MediCore** *(SaaS Clínico)*
-> Plataforma integral desarrollada e implementada para digitalizar por completo el flujo de trabajo de un consultorio médico real.
-> * **Impacto:** Transición de historias clínicas en papel a un sistema centralizado con gestión de turnos y seguridad en el acceso a la información.
-> * **Tecnologías:** Java, Spring Boot, React, Base de Datos Relacional.
+**MediCore** *(SaaS Clínico)*
+Plataforma integral desarrollada e implementada para digitalizar el flujo de trabajo de un consultorio médico real.
+* **Impacto:** Transición de historias clínicas en papel a un sistema centralizado con gestión de turnos.
+* **Tecnologías:** Java, Spring Boot, React, Base de Datos Relacional.
 
----
-
-### 📚 Aprendizaje Continuo
-
-Creo firmemente en mantener los fundamentos algorítmicos afilados. Actualmente mantengo un plan de estudio documentado resolviendo desafíos de lógica y estructuras de datos:
-* 🔗 **[LeetCode Patterns JS](https://github.com/fbarrabino/leetcode-patterns-js):** Mi repositorio público documentando la resolución de más de 75 problemas (Easy/Medium) enfocados en eficiencia y patrones de algoritmos en JavaScript.
+**Administración y Soporte Operativo** *(Plataforma de Casino Virtual)*
+Gestión administrativa y operativa del sistema. Actué como nexo entre el usuario final y el equipo de desarrollo, realizando reportes de bugs, pruebas de interfaz (QA manual) y escalamiento de incidencias técnicas.
 
 ---
 
-### 📈 Actividad en GitHub
+### Aprendizaje Continuo
 
-![Estadísticas de Franco](https://github-readme-stats.vercel.app/api?username=fbarrabino&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff)
+Creo firmemente en mantener los fundamentos algorítmicos afilados. Actualmente documento mi resolución de desafíos de lógica y estructuras de datos:
+* 🔗 **[LeetCode Patterns JS](https://github.com/fbarrabino/leetcode-patterns-js):** Repositorio con la resolución de más de 75 problemas (Easy/Medium) enfocados en eficiencia y patrones de algoritmos en JavaScript.
 
-### 📫 Contacto
+---
+
+### Contacto
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-barrabino/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barrabinof299@gmail.com)
