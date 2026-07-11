@@ -1,8 +1,4 @@
-<details>
-  <summary><h3>🌍 Read in English (Click to expand)</h3></summary>
-  <br>
-
-  # Hi, I'm Franco Barrabino
+# Hi, I'm Franco Barrabino
 
   **Software Developer | Optimizing processes and building scalable solutions**
 
