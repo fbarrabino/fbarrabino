@@ -1,7 +1,7 @@
-# Hi, I'm Franco Barrabino
+# Hi, I'm Franco Barrabino <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
   **Software Developer | Optimizing processes and building scalable solutions**
-
+<img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
   I am a developer focused on the Backend ecosystem. I am passionate about solving complex logical problems and translating business rules into clean and efficient architectures. Currently, my comfort zone and main development area is **JavaScript/Node.js**, although my foundational training and first enterprise-level applications were built under the rigor of **Java and Spring Boot**. 
 
   My professional approach is simple: build software that eliminates repetitive tasks, saves time, and provides real value to users.
