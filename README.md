@@ -3,19 +3,30 @@
 **Software Developer | Optimizing processes and building scalable solutions**
 <img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
 
-I am a developer focused on the Backend ecosystem with a strong foundation in Full Stack development. I am passionate about solving complex logical problems and translating business rules into clean, efficient architectures. Currently, my main development area is **JavaScript/Node.js**, although my foundational training and first enterprise-level applications were built under the rigor of **Java and Spring Boot**. 
+I'm a backend-focused developer with a solid full-stack foundation. I enjoy tackling complex logic and building clean, efficient architectures that solve real-world business problems. While my current daily tools are **JavaScript and Node.js**, my foundational training and early enterprise-level projects were built with **Java and Spring Boot**. 
 
-My professional approach is simple: build software that eliminates repetitive tasks, saves time, and provides real value to users.
+My goal with any project is straightforward: build software that eliminates manual work, saves time, and adds real value.
 
 ---
 
-### 🎓 Education & Background
+### Experience & Featured Projects
+
+Here is a look at some of the solutions I've developed and managed for real clients:
+
+* **MediCore (Clinical SaaS):** Designed and deployed a comprehensive platform to digitize a medical clinic's entire workflow. The system successfully transitioned the clinic from paper-based records to a centralized digital solution with appointment scheduling. *(Java, Spring Boot, React, Relational Database)*
+* **VCF Balance Automator (Private Repository):** Built a local application for an accounting firm that formats and injects complex data—including inflation adjustments—directly from Excel spreadsheets into formal Word reports. This tool reduced manual work by 4 hours per balance sheet and eliminated human error in critical numerical data. *(Local script logic, document parsing, dynamic data structures)*
+* **Operations Support (Virtual Casino Platform):** Handled administrative and operational management for a virtual casino system. Acted as the main liaison between end-users and the development team, which involved reporting bugs, manual QA testing, and escalating technical issues.
+
+---
+
+### Education & Background
+
 * **Tecnicatura Universitaria en Programación** - *Universidad Tecnológica Nacional (UTN)*[cite: 1] (Currently Enrolled)
 * **Full Stack Web Developer** - *CoderHouse* (Graduated)
 
 ---
 
-### 💻 Ecosystem and Technologies
+### Ecosystem and Technologies
 
 **Main Stack:**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -30,19 +41,9 @@ My professional approach is simple: build software that eliminates repetitive ta
 
 ---
 
-### 🚀 Experience & Featured Projects
+### Contact
 
-Throughout my career, I have participated in the development and operational management of solutions for companies and professionals:
-
-* **MediCore (Clinical SaaS):** Comprehensive platform developed and implemented to digitize the workflow of a real medical clinic. Transitioned from paper-based medical records to a centralized system with appointment scheduling. *(Java, Spring Boot, React, Relational Database)*
-* **VCF Balance Automator (Private Repository):** Desktop application for an accounting firm that injects and formats complex data (with inflation adjustments) directly from Excel spreadsheets into formal Word reports. Reduced manual work by 4 hours per balance sheet, eliminating human error margins in critical numerical data. *(Local script logic, document parsing, dynamic data structures)*
-* **Operations Support (Virtual Casino Platform):** Administrative and operational management of the system. Acted as a liaison between the end user and the development team, reporting bugs, performing interface testing (manual QA), and escalating technical issues.
-
----
-
-### 📬 Contact & Open to Work
-
-I am currently open to new opportunities. Let's connect!
+I'm actively looking for new opportunities. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-barrabino/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barrabinof299@gmail.com)
