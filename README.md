@@ -37,7 +37,7 @@ Here is a look at some of the solutions I've developed and managed for real clie
 ### Education & Background
 
 * **Tecnicatura Universitaria en Programación** - *Universidad Tecnológica Nacional [[UTN](https://utn.edu.ar/es/)]* (Currently Enrolled)
-* **Full Stack Web Developer** - *[[CoderHouse](https://www.coderhouse.com/ar/)]* (Graduated)
+* **Full Stack Web Developer** - *[[CoderHouse](https://www.coderhouse.com/ar/)]* (Graduated 2023-2024)
 
 ---
 
